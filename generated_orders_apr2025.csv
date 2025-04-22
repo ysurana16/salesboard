@@ -1,0 +1,291 @@
+Date,Customer Name,Product,Location,Quantity,Cost Price,Unit Price,Credit Days
+2025-04-01,JaySteel,Iron Ore,Raipur,20,6109,4312,42
+2025-04-01,Zenith Power,Iron Ore,Raipur,24,5364,4571,35
+2025-04-02,Bharat Trading,Manganese Ore,Kolkata,17,3614,3819,27
+2025-04-02,Greenline Corp,Indonesian Coal,Surat,22,7247,7857,35
+2025-04-02,AlphaEnergy,Manganese Ore,Kolkata,22,3676,3879,32
+2025-04-03,SouthStar Energy,Iron Ore,Raipur,17,5948,4320,30
+2025-04-03,Bharat Trading,Manganese Ore,Kolkata,35,3723,3904,40
+2025-04-03,Zenith Power,Manganese Ore,Kolkata,10,3678,3789,31
+2025-04-04,Om Metals,Indonesian Coal,Surat,33,6962,8074,43
+2025-04-04,JaySteel,Iron Ore,Raipur,9,5576,5309,38
+2025-04-05,JaySteel,Pet Coke,Mumbai,24,2083,2175,21
+2025-04-05,AlphaEnergy,Iron Ore,Raipur,19,5317,5172,38
+2025-04-05,Bharat Trading,Iron Ore,Raipur,19,6459,4136,42
+2025-04-06,Zenith Power,Iron Ore,Raipur,16,5738,4430,41
+2025-04-07,SteelBridge,Indonesian Coal,Surat,12,6907,8292,24
+2025-04-07,Om Metals,Iron Ore,Raipur,11,6571,4278,31
+2025-04-08,AlphaEnergy,Indonesian Coal,Surat,28,7018,8194,36
+2025-04-08,Greenline Corp,Iron Ore,Raipur,28,6627,5190,37
+2025-04-08,JaySteel,Pet Coke,Mumbai,26,2098,2248,30
+2025-04-09,SouthStar Energy,Manganese Ore,Kolkata,16,3603,3788,33
+2025-04-09,AlphaEnergy,Manganese Ore,Kolkata,33,3730,3884,26
+2025-04-10,JaySteel,Indonesian Coal,Surat,11,6670,7964,34
+2025-04-10,Bharat Trading,Manganese Ore,Kolkata,29,3750,3896,30
+2025-04-10,AlphaEnergy,Indonesian Coal,Surat,19,6837,7914,32
+2025-04-11,Bharat Trading,Indonesian Coal,Surat,12,7017,8107,22
+2025-04-11,Indus Minerals,Pet Coke,Mumbai,29,2094,2243,20
+2025-04-11,Greenline Corp,Indonesian Coal,Surat,13,6831,8098,32
+2025-04-12,Om Metals,Indonesian Coal,Surat,17,6824,7871,33
+2025-04-13,RawEdge Exim,Manganese Ore,Kolkata,23,3688,3925,39
+2025-04-14,Tradelink Global,Indonesian Coal,Surat,10,7219,8100,37
+2025-04-14,SteelBridge,Manganese Ore,Kolkata,19,3744,3849,32
+2025-04-15,AlphaEnergy,Iron Ore,Raipur,34,5182,4288,40
+2025-04-15,Zenith Power,Indonesian Coal,Surat,17,6761,8293,35
+2025-04-16,Bharat Trading,Iron Ore,Raipur,26,5682,5021,41
+2025-04-16,JaySteel,Iron Ore,Raipur,23,6814,5071,38
+2025-04-17,SouthStar Energy,Iron Ore,Raipur,11,6018,4745,26
+2025-04-17,JaySteel,Pet Coke,Mumbai,22,2095,2194,34
+2025-04-18,Om Metals,Iron Ore,Raipur,18,6920,5088,26
+2025-04-18,SteelBridge,Iron Ore,Raipur,33,6835,5489,39
+2025-04-19,Indus Minerals,Manganese Ore,Kolkata,17,3638,3797,21
+2025-04-19,Tradelink Global,Indonesian Coal,Surat,25,7377,8056,43
+2025-04-19,AlphaEnergy,Manganese Ore,Kolkata,23,3686,3851,24
+2025-04-20,Bharat Trading,Iron Ore,Raipur,33,5954,4817,23
+2025-04-20,Zenith Power,Pet Coke,Mumbai,26,2029,2247,39
+2025-04-20,AlphaEnergy,Manganese Ore,Kolkata,24,3750,3881,26
+2025-04-21,Om Metals,Manganese Ore,Kolkata,19,3608,3840,25
+2025-04-21,NewAge Fuels,Indonesian Coal,Surat,12,7272,8061,24
+2025-04-21,SteelBridge,Iron Ore,Raipur,33,6813,4338,45
+2025-04-22,JaySteel,Iron Ore,Raipur,24,5744,4699,24
+2025-04-22,MaxCommodities,Indonesian Coal,Surat,30,7368,8058,22
+2025-04-22,NewAge Fuels,Manganese Ore,Kolkata,15,3691,3822,35
+2025-04-23,SteelBridge,Iron Ore,Raipur,26,5831,4174,21
+2025-04-24,Bharat Trading,Indonesian Coal,Surat,15,7492,8263,28
+2025-04-24,Om Metals,Pet Coke,Mumbai,8,2013,2199,43
+2025-04-25,AlphaEnergy,Indonesian Coal,Surat,21,7434,7866,39
+2025-04-26,Zenith Power,Indonesian Coal,Surat,12,7321,7985,41
+2025-04-27,Bharat Trading,Manganese Ore,Kolkata,35,3694,3804,24
+2025-04-28,Indus Minerals,Manganese Ore,Kolkata,28,3637,3796,23
+2025-04-28,SouthStar Energy,Manganese Ore,Kolkata,32,3702,3843,32
+2025-04-28,Tradelink Global,Pet Coke,Mumbai,13,2074,2165,22
+2025-04-29,MaxCommodities,Pet Coke,Mumbai,34,2044,2235,35
+2025-04-29,SouthStar Energy,Iron Ore,Raipur,23,6719,5272,39
+2025-04-30,Zenith Power,Indonesian Coal,Surat,17,7118,7822,33
+2025-04-30,JaySteel,Manganese Ore,Kolkata,21,3602,3835,20
+2025-04-30,AlphaEnergy,Manganese Ore,Kolkata,17,3688,3878,38
+2025-05-01,Bharat Trading,Iron Ore,Raipur,23,5091,4023,36
+2025-05-01,Zenith Power,Iron Ore,Raipur,31,5580,4230,26
+2025-05-01,Om Metals,Indonesian Coal,Surat,27,6976,7930,26
+2025-05-02,SteelBridge,Indonesian Coal,Surat,11,7379,8007,40
+2025-05-02,Om Metals,Indonesian Coal,Surat,21,6746,7835,28
+2025-05-02,Eastern Traders,Indonesian Coal,Surat,23,7238,7959,33
+2025-05-03,Zenith Power,Iron Ore,Raipur,8,5823,4387,32
+2025-05-04,AlphaEnergy,Pet Coke,Mumbai,23,2017,2239,41
+2025-05-04,Bharat Trading,Manganese Ore,Kolkata,10,3707,3913,24
+2025-05-05,AlphaEnergy,Pet Coke,Mumbai,19,2022,2197,24
+2025-05-05,Eastern Traders,Iron Ore,Raipur,8,6927,4561,29
+2025-05-06,JaySteel,Pet Coke,Mumbai,33,1996,2212,36
+2025-05-06,MacroTrade LLP,Manganese Ore,Kolkata,18,3714,3816,30
+2025-05-07,JaySteel,Pet Coke,Mumbai,16,2007,2232,40
+2025-05-08,Zenith Power,Manganese Ore,Kolkata,34,3723,3877,22
+2025-05-08,Bharat Trading,Pet Coke,Mumbai,16,2017,2165,38
+2025-05-08,JaySteel,Indonesian Coal,Surat,18,7220,7872,26
+2025-05-09,JaySteel,Pet Coke,Mumbai,25,2098,2208,39
+2025-05-10,RawEdge Exim,Indonesian Coal,Surat,10,7084,8053,32
+2025-05-11,Zenith Power,Manganese Ore,Kolkata,29,3619,3825,36
+2025-05-11,JaySteel,Manganese Ore,Kolkata,14,3614,3826,23
+2025-05-11,AlphaEnergy,Iron Ore,Raipur,16,5152,4612,42
+2025-05-12,SteelBridge,Manganese Ore,Kolkata,30,3675,3790,44
+2025-05-12,Zenith Power,Pet Coke,Mumbai,14,2019,2177,23
+2025-05-12,Om Metals,Manganese Ore,Kolkata,27,3714,3890,30
+2025-05-13,Om Metals,Manganese Ore,Kolkata,29,3726,3908,36
+2025-05-14,Om Metals,Indonesian Coal,Surat,30,7238,7932,44
+2025-05-14,Bharat Trading,Pet Coke,Mumbai,18,2082,2167,41
+2025-05-15,SouthStar Energy,Iron Ore,Raipur,16,6274,4013,23
+2025-05-15,JaySteel,Indonesian Coal,Surat,12,7413,8102,45
+2025-05-16,RawEdge Exim,Indonesian Coal,Surat,19,7409,7910,24
+2025-05-16,Bharat Trading,Indonesian Coal,Surat,32,7434,8089,29
+2025-05-16,Zenith Power,Pet Coke,Mumbai,34,2095,2244,30
+2025-05-17,Zenith Power,Iron Ore,Raipur,8,5297,4623,36
+2025-05-17,SteelBridge,Iron Ore,Raipur,16,5216,4547,42
+2025-05-18,Eastern Traders,Indonesian Coal,Surat,24,7433,8255,24
+2025-05-19,Om Metals,Pet Coke,Mumbai,19,2034,2194,26
+2025-05-20,JaySteel,Indonesian Coal,Surat,22,7266,7986,39
+2025-05-21,RawEdge Exim,Manganese Ore,Kolkata,18,3632,3862,27
+2025-05-21,Tradelink Global,Manganese Ore,Kolkata,16,3717,3826,24
+2025-05-21,Greenline Corp,Manganese Ore,Kolkata,25,3651,3921,43
+2025-05-22,Zenith Power,Indonesian Coal,Surat,15,7249,7810,32
+2025-05-23,AlphaEnergy,Manganese Ore,Kolkata,12,3750,3826,24
+2025-05-24,AlphaEnergy,Pet Coke,Mumbai,34,2045,2201,38
+2025-05-24,Greenline Corp,Pet Coke,Mumbai,34,1996,2245,24
+2025-05-25,AlphaEnergy,Pet Coke,Mumbai,8,2024,2192,35
+2025-05-25,NewAge Fuels,Indonesian Coal,Surat,14,6683,8200,32
+2025-05-26,JaySteel,Pet Coke,Mumbai,27,2095,2205,43
+2025-05-27,Bharat Trading,Indonesian Coal,Surat,22,7273,7898,31
+2025-05-28,Zenith Power,Indonesian Coal,Surat,33,7316,7851,42
+2025-05-29,Om Metals,Iron Ore,Raipur,15,6969,4915,21
+2025-05-29,Bharat Trading,Pet Coke,Mumbai,21,2057,2153,40
+2025-05-30,SteelBridge,Manganese Ore,Kolkata,17,3683,3851,32
+2025-05-31,AlphaEnergy,Pet Coke,Mumbai,19,2098,2186,35
+2025-06-01,Bharat Trading,Manganese Ore,Kolkata,20,3711,3805,39
+2025-06-01,AlphaEnergy,Iron Ore,Raipur,31,6900,4915,39
+2025-06-02,RawEdge Exim,Manganese Ore,Kolkata,12,3676,3855,22
+2025-06-02,SouthStar Energy,Pet Coke,Mumbai,19,2050,2240,37
+2025-06-03,Om Metals,Indonesian Coal,Surat,27,6639,8001,45
+2025-06-03,AlphaEnergy,Pet Coke,Mumbai,24,2090,2222,21
+2025-06-04,Zenith Power,Pet Coke,Mumbai,29,2055,2187,25
+2025-06-05,JaySteel,Indonesian Coal,Surat,22,6627,7864,29
+2025-06-06,Eastern Traders,Pet Coke,Mumbai,12,2098,2175,33
+2025-06-06,Bharat Trading,Iron Ore,Raipur,15,5098,5312,38
+2025-06-07,AlphaEnergy,Indonesian Coal,Surat,27,7297,8067,25
+2025-06-07,Zenith Power,Indonesian Coal,Surat,22,7459,7926,33
+2025-06-07,SouthStar Energy,Iron Ore,Raipur,22,6560,5397,37
+2025-06-08,JaySteel,Iron Ore,Raipur,19,6410,4215,21
+2025-06-10,AlphaEnergy,Iron Ore,Raipur,31,6300,4652,30
+2025-06-10,JaySteel,Indonesian Coal,Surat,19,7026,8040,42
+2025-06-10,Indus Minerals,Manganese Ore,Kolkata,22,3616,3797,26
+2025-06-11,Bharat Trading,Iron Ore,Raipur,11,5283,4258,31
+2025-06-11,Zenith Power,Indonesian Coal,Surat,24,7226,8177,34
+2025-06-12,Om Metals,Indonesian Coal,Surat,16,7041,8114,31
+2025-06-12,Bharat Trading,Manganese Ore,Kolkata,27,3716,3911,20
+2025-06-13,Tradelink Global,Iron Ore,Raipur,24,5455,4465,32
+2025-06-13,JaySteel,Manganese Ore,Kolkata,14,3718,3799,37
+2025-06-14,Zenith Power,Indonesian Coal,Surat,12,7444,7893,32
+2025-06-14,Tradelink Global,Manganese Ore,Kolkata,9,3702,3902,22
+2025-06-14,AlphaEnergy,Indonesian Coal,Surat,20,7338,8037,21
+2025-06-15,Zenith Power,Manganese Ore,Kolkata,13,3748,3780,42
+2025-06-15,Tradelink Global,Manganese Ore,Kolkata,32,3729,3813,44
+2025-06-16,SteelBridge,Indonesian Coal,Surat,21,6631,8200,39
+2025-06-16,SouthStar Energy,Pet Coke,Mumbai,26,2052,2159,26
+2025-06-16,Bharat Trading,Indonesian Coal,Surat,29,7191,7939,45
+2025-06-17,JaySteel,Pet Coke,Mumbai,26,2086,2177,37
+2025-06-17,AlphaEnergy,Indonesian Coal,Surat,10,6680,8127,33
+2025-06-18,MacroTrade LLP,Iron Ore,Raipur,21,6214,4222,25
+2025-06-19,JaySteel,Pet Coke,Mumbai,20,2080,2197,35
+2025-06-20,Zenith Power,Indonesian Coal,Surat,22,6700,8245,45
+2025-06-20,Indus Minerals,Iron Ore,Raipur,29,5994,4562,20
+2025-06-21,RawEdge Exim,Pet Coke,Mumbai,33,2000,2175,34
+2025-06-21,JaySteel,Iron Ore,Raipur,31,6296,4618,38
+2025-06-21,Om Metals,Pet Coke,Mumbai,30,2089,2244,34
+2025-06-22,MaxCommodities,Manganese Ore,Kolkata,24,3706,3891,38
+2025-06-23,Bharat Trading,Pet Coke,Mumbai,9,2007,2185,41
+2025-06-23,AlphaEnergy,Indonesian Coal,Surat,29,6976,8194,22
+2025-06-24,Bharat Trading,Iron Ore,Raipur,16,5304,4660,29
+2025-06-25,SteelBridge,Iron Ore,Raipur,28,5320,4966,21
+2025-06-25,Bharat Trading,Iron Ore,Raipur,15,6209,4575,27
+2025-06-26,Greenline Corp,Iron Ore,Raipur,25,6464,4967,22
+2025-06-26,Bharat Trading,Pet Coke,Mumbai,32,2099,2248,31
+2025-06-27,SteelBridge,Indonesian Coal,Surat,14,7016,7843,31
+2025-06-28,Zenith Power,Iron Ore,Raipur,27,6936,4225,42
+2025-06-28,NewAge Fuels,Pet Coke,Mumbai,20,2040,2215,38
+2025-06-29,MaxCommodities,Manganese Ore,Kolkata,11,3633,3916,21
+2025-06-29,SteelBridge,Pet Coke,Mumbai,12,2054,2159,31
+2025-06-30,JaySteel,Indonesian Coal,Surat,17,7446,7820,32
+2025-06-30,AlphaEnergy,Iron Ore,Raipur,25,5259,4915,41
+2025-06-30,Bharat Trading,Indonesian Coal,Surat,33,6791,7878,42
+2025-07-01,Om Metals,Pet Coke,Mumbai,10,2014,2233,27
+2025-07-01,AlphaEnergy,Manganese Ore,Kolkata,35,3715,3802,24
+2025-07-03,Zenith Power,Manganese Ore,Kolkata,12,3630,3783,31
+2025-07-03,Om Metals,Pet Coke,Mumbai,22,2084,2181,26
+2025-07-03,AlphaEnergy,Indonesian Coal,Surat,11,7171,7855,25
+2025-07-04,Bharat Trading,Indonesian Coal,Surat,23,7338,8099,43
+2025-07-04,Om Metals,Iron Ore,Raipur,24,6457,4459,43
+2025-07-04,Zenith Power,Iron Ore,Raipur,21,5826,4424,20
+2025-07-05,Zenith Power,Pet Coke,Mumbai,32,2054,2207,29
+2025-07-05,Bharat Trading,Pet Coke,Mumbai,15,2012,2163,38
+2025-07-06,Om Metals,Pet Coke,Mumbai,8,2067,2188,30
+2025-07-08,Zenith Power,Iron Ore,Raipur,31,5222,5214,21
+2025-07-09,Zenith Power,Pet Coke,Mumbai,25,2019,2199,23
+2025-07-09,JaySteel,Indonesian Coal,Surat,34,6907,8295,28
+2025-07-09,Eastern Traders,Indonesian Coal,Surat,19,6680,8087,22
+2025-07-10,AlphaEnergy,Pet Coke,Mumbai,19,2075,2166,30
+2025-07-10,SteelBridge,Iron Ore,Raipur,34,6358,5243,21
+2025-07-11,Bharat Trading,Indonesian Coal,Surat,29,7322,8109,40
+2025-07-11,SteelBridge,Iron Ore,Raipur,8,5100,4827,21
+2025-07-11,RawEdge Exim,Iron Ore,Raipur,21,5050,4703,39
+2025-07-12,Bharat Trading,Iron Ore,Raipur,11,5093,4421,28
+2025-07-12,SouthStar Energy,Pet Coke,Mumbai,17,2015,2218,28
+2025-07-13,RawEdge Exim,Pet Coke,Mumbai,32,2016,2232,23
+2025-07-14,JaySteel,Pet Coke,Mumbai,21,2049,2205,28
+2025-07-14,Bharat Trading,Iron Ore,Raipur,30,6300,5016,20
+2025-07-15,RawEdge Exim,Indonesian Coal,Surat,30,6696,8089,36
+2025-07-15,Om Metals,Pet Coke,Mumbai,20,2097,2194,24
+2025-07-16,JaySteel,Iron Ore,Raipur,10,6300,4224,45
+2025-07-17,Zenith Power,Iron Ore,Raipur,17,6030,4056,39
+2025-07-18,Zenith Power,Pet Coke,Mumbai,23,2046,2183,32
+2025-07-18,Om Metals,Iron Ore,Raipur,35,6843,5192,30
+2025-07-19,Indus Minerals,Iron Ore,Raipur,21,6334,4623,36
+2025-07-19,Om Metals,Iron Ore,Raipur,12,5881,5498,33
+2025-07-19,RawEdge Exim,Pet Coke,Mumbai,30,2049,2215,42
+2025-07-20,JaySteel,Pet Coke,Mumbai,27,2063,2171,30
+2025-07-21,RawEdge Exim,Manganese Ore,Kolkata,18,3658,3873,30
+2025-07-21,AlphaEnergy,Manganese Ore,Kolkata,23,3712,3802,26
+2025-07-21,Bharat Trading,Pet Coke,Mumbai,8,2080,2209,20
+2025-07-22,Greenline Corp,Manganese Ore,Kolkata,28,3619,3804,22
+2025-07-22,MacroTrade LLP,Pet Coke,Mumbai,21,2047,2247,38
+2025-07-22,JaySteel,Manganese Ore,Kolkata,21,3610,3781,42
+2025-07-23,Tradelink Global,Pet Coke,Mumbai,23,2006,2208,32
+2025-07-24,Bharat Trading,Manganese Ore,Kolkata,12,3699,3881,42
+2025-07-25,Zenith Power,Indonesian Coal,Surat,23,7019,8053,25
+2025-07-25,SteelBridge,Pet Coke,Mumbai,35,2012,2239,20
+2025-07-26,Om Metals,Iron Ore,Raipur,21,5539,4802,38
+2025-07-26,Tradelink Global,Pet Coke,Mumbai,22,2002,2233,27
+2025-07-26,AlphaEnergy,Manganese Ore,Kolkata,24,3663,3789,36
+2025-07-27,JaySteel,Indonesian Coal,Surat,23,7316,8148,37
+2025-07-27,Bharat Trading,Pet Coke,Mumbai,9,2045,2241,20
+2025-07-28,JaySteel,Manganese Ore,Kolkata,26,3617,3818,23
+2025-07-29,Om Metals,Manganese Ore,Kolkata,26,3714,3880,34
+2025-07-29,Tradelink Global,Manganese Ore,Kolkata,10,3658,3866,23
+2025-07-29,SouthStar Energy,Indonesian Coal,Surat,29,7247,7932,44
+2025-07-30,SteelBridge,Manganese Ore,Kolkata,11,3614,3867,30
+2025-07-30,Greenline Corp,Pet Coke,Mumbai,34,2086,2242,33
+2025-07-30,Zenith Power,Manganese Ore,Kolkata,31,3746,3879,25
+2025-07-31,JaySteel,Indonesian Coal,Surat,13,7111,8293,41
+2025-08-01,Indus Minerals,Indonesian Coal,Surat,35,7072,8284,25
+2025-08-01,Bharat Trading,Iron Ore,Raipur,21,6685,4847,20
+2025-08-01,Zenith Power,Pet Coke,Mumbai,17,1991,2206,31
+2025-08-02,AlphaEnergy,Iron Ore,Raipur,8,6949,5028,42
+2025-08-03,Bharat Trading,Pet Coke,Mumbai,29,2068,2216,33
+2025-08-03,Zenith Power,Iron Ore,Raipur,35,5951,4406,35
+2025-08-03,Eastern Traders,Indonesian Coal,Surat,30,6961,7908,31
+2025-08-04,Eastern Traders,Indonesian Coal,Surat,23,6735,7835,38
+2025-08-04,MacroTrade LLP,Manganese Ore,Kolkata,22,3731,3929,45
+2025-08-05,Zenith Power,Iron Ore,Raipur,15,5792,4269,42
+2025-08-05,JaySteel,Pet Coke,Mumbai,21,2050,2207,30
+2025-08-05,Bharat Trading,Indonesian Coal,Surat,23,7351,8295,37
+2025-08-06,Om Metals,Indonesian Coal,Surat,34,7041,8125,20
+2025-08-06,Tradelink Global,Indonesian Coal,Surat,8,6625,7880,40
+2025-08-07,Eastern Traders,Pet Coke,Mumbai,30,2072,2250,37
+2025-08-08,Bharat Trading,Pet Coke,Mumbai,17,1992,2214,44
+2025-08-08,Zenith Power,Manganese Ore,Kolkata,15,3733,3924,39
+2025-08-08,RawEdge Exim,Indonesian Coal,Surat,9,7265,8295,45
+2025-08-09,AlphaEnergy,Manganese Ore,Kolkata,20,3670,3921,41
+2025-08-10,SteelBridge,Pet Coke,Mumbai,8,1991,2243,45
+2025-08-11,AlphaEnergy,Pet Coke,Mumbai,9,2090,2250,30
+2025-08-11,Om Metals,Pet Coke,Mumbai,29,2050,2176,43
+2025-08-11,Bharat Trading,Pet Coke,Mumbai,14,2008,2160,41
+2025-08-12,RawEdge Exim,Manganese Ore,Kolkata,35,3686,3859,45
+2025-08-13,JaySteel,Indonesian Coal,Surat,27,7009,8206,43
+2025-08-14,RawEdge Exim,Pet Coke,Mumbai,25,2071,2246,21
+2025-08-14,AlphaEnergy,Iron Ore,Raipur,14,5432,4424,22
+2025-08-14,SouthStar Energy,Manganese Ore,Kolkata,20,3676,3806,32
+2025-08-15,Bharat Trading,Iron Ore,Raipur,10,6089,4938,21
+2025-08-15,Tradelink Global,Iron Ore,Raipur,15,5941,4100,29
+2025-08-15,JaySteel,Pet Coke,Mumbai,34,2069,2167,35
+2025-08-16,AlphaEnergy,Pet Coke,Mumbai,12,2045,2155,31
+2025-08-16,Eastern Traders,Indonesian Coal,Surat,11,6628,8115,34
+2025-08-17,Bharat Trading,Manganese Ore,Kolkata,29,3627,3919,23
+2025-08-17,MaxCommodities,Pet Coke,Mumbai,14,2009,2209,27
+2025-08-18,AlphaEnergy,Pet Coke,Mumbai,29,2086,2233,28
+2025-08-18,Bharat Trading,Pet Coke,Mumbai,10,2022,2236,24
+2025-08-19,Om Metals,Manganese Ore,Kolkata,25,3701,3827,34
+2025-08-20,Zenith Power,Pet Coke,Mumbai,13,2006,2239,24
+2025-08-20,Bharat Trading,Indonesian Coal,Surat,9,6900,8081,36
+2025-08-20,JaySteel,Pet Coke,Mumbai,12,2055,2172,26
+2025-08-21,JaySteel,Iron Ore,Raipur,24,5261,4026,45
+2025-08-22,AlphaEnergy,Pet Coke,Mumbai,20,2007,2219,42
+2025-08-23,AlphaEnergy,Manganese Ore,Kolkata,29,3624,3895,39
+2025-08-24,NewAge Fuels,Indonesian Coal,Surat,34,7227,8272,36
+2025-08-24,Tradelink Global,Manganese Ore,Kolkata,11,3636,3867,20
+2025-08-24,RawEdge Exim,Iron Ore,Raipur,11,5854,4070,20
+2025-08-25,AlphaEnergy,Manganese Ore,Kolkata,16,3701,3863,28
+2025-08-25,Bharat Trading,Iron Ore,Raipur,19,5593,4449,25
+2025-08-26,Eastern Traders,Manganese Ore,Kolkata,17,3609,3806,39
+2025-08-27,Zenith Power,Iron Ore,Raipur,19,5821,5317,20
+2025-08-27,JaySteel,Pet Coke,Mumbai,21,2070,2233,44
+2025-08-27,Bharat Trading,Pet Coke,Mumbai,20,2055,2161,21
+2025-08-28,AlphaEnergy,Indonesian Coal,Surat,14,7425,8050,36
+2025-08-29,MaxCommodities,Iron Ore,Raipur,17,6344,4563,27
+2025-08-29,Eastern Traders,Indonesian Coal,Surat,24,6869,8295,24
+2025-08-30,NewAge Fuels,Indonesian Coal,Surat,26,7053,8044,23
